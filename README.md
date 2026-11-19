@@ -29,4 +29,19 @@ Working with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=100&section=footer" width="100%"/>
 
 </div>
+## 👾 Pac-Man Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph-dark.svg"
+    width="100%">
+</picture>
+
+</div>
 
