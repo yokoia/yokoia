@@ -29,7 +29,6 @@ Working with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=100&section=footer" width="100%"/>
 
 </div>
-## 👾 Pac-Man Contributions
 
 <div align="center">
 
